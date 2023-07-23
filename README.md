@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **basic coding stuff**
 
-- 📫 How to reach me **KylomaskGamer#0144**
+- 📫 How to reach me **kylomaskgamer on discord**
 
 - ⚡ Fun fact **im a funny**
 
