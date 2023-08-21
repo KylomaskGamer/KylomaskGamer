@@ -3,7 +3,7 @@
 
 ![gamer proof](https://gen.plancke.io/exp/KylomaskGamer.png)
 
-- 🔭 I’m currently working on **Retro Rampage**
+- 🔭 I’m currently working on **Romulo, a 3D roblox platformer**
 
 - 🌱 I’m currently learning **Roblox Lua**
 
