@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kylomask</h1>
+<h1 align="center">Hi 👋, I'm KylomaskGamer</h1>
 <h3 align="center">A gamer and coder from Canada 🍁</h3>
 
 ![gamer proof](https://gen.plancke.io/exp/KylomaskGamer.png)
