@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **discord.js**
 
-- 👨‍💻 All of my projects are available at [kylomaskgamer.ca](kylomaskgamer.ca)
+- 👨‍💻 All of my projects are available at [kylomaskgamer.ca](https://kylomaskgamer.ca)
 
 - 💬 Ask me about **discord.py and basic python stuff**
 
