@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kylomaskgamer" alt="kylomaskgamer" /></a> </p>
 
-- 🔭 I’m currently working on [Breadocalypse](https://github.com/KylomaskGamer/Breadocalypse)
+- 🔭 I’m currently working on [Breadocalypse](https://github.com/KylomaskGamer/Breadocalypse) as well as its [skkin editor](https://github.com/KylomaskGamer/Breadocalypse-Skin-Editor)
 
 - 🌱 I’m currently learning **discord.js**
 
