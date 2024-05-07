@@ -1,36 +1,36 @@
-<h1 align="center">HEY GUYS, ITS ME KylomaskGamer</h1>
-<h3 align="center">Funny Frontend / Backend Dev from maple land</h3>
+<h1>DOWNLOAD GEOMETRY DASH TWO POINT TWO O FIVE</h1>
+<h3>...oh sorry for yelling, i'm KylomaskGamer! (He/Him)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kylomaskgamer&label=Profile%20views&color=0e75b6&style=flat" alt="kylomaskgamer" /> </p>
+A silly little game dev from a wild place called maple land.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kylomaskgamer" alt="kylomaskgamer" /></a> </p>
+I like making silly things in my silly little laptop, both in frontend and backend (but i do more frontend than backend).
 
-- 🔭 I’m currently working on [Breadocalypse](https://github.com/KylomaskGamer/Breadocalypse) as well as its [skkin editor](https://github.com/KylomaskGamer/Breadocalypse-Skin-Editor)
+I also moderate multiple discord servers (but most of them have less than 50 people).
 
-- 🌱 I’m currently learning **discord.js**
+I also like being <b>inclusive</b> and <b>empathic</b>, and i am usually nice (except if you are mean to me).
 
-- 👨‍💻 All of my projects are available at [kylomaskgamer.ca](https://kylomaskgamer.ca)
+Also did i mention that i do pixel art and 8 bit music??
 
-- 💬 Ask me about **discord.py and basic python stuff**
+What i am working on:
+- Breadocalypse (Survive in a crusty apocalypse with the trusty Gun)
+- Moddy (On pause, a discord bot for automatically moderating servers)
+- Islander (On pause, a discord bot where you explore and fight crabs for now and craft all on discord)
+- Joe Simulator: The Abandonned City (Play as Joe and traverse a scawy city ooooo)
+- stupid low effort animations ([such as dancing bread videoo](https://www.youtube.com/shorts/Z8UIs45rX48))
 
-- 📫 How to reach me **kylomask@kylomaskgamer.ca**
+What i made:
+- A (deephearted) Minecraft Survival Series! Telling stories while building stuff, check it out [here!](https://youtube.com/playlist?list=PLkDon0yjD0A-HPrn7hUYEXQUejbQ4e57h)
+- Techy Bee Studios!
+- [NYOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMMMMMMMMMMMMMM](https://gamejolt.com/games/nyooom/828464)
+----------------------------------
+ALSO meet joe, a character made by <a href="https://github.com/PuzzlingGGG">puzzlingGGG</a>
 
-- ⚡ Fun fact: **spinning**
+![Joe](https://github.com/KylomaskGamer/KylomaskGamer/assets/83834554/f7e5bca0-4544-4c94-b294-0ef5378371ce)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/kylomaskgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kylomaskgamer" height="30" width="40" /></a>
-<a href="https://discord.gg/kVxCbRFdvP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kVxCbRFdvP" height="30" width="40" /></a>
-</p>
+a good fella
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+the best fella
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kylomaskgamer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kylomaskgamer" /></a></p><br><br>
+i really like joe
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kylomaskgamer&show_icons=true&locale=en&layout=compact" alt="kylomaskgamer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kylomaskgamer&show_icons=true&locale=en" alt="kylomaskgamer" /></p>
-
- <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/KylomaskGamer/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/KylomaskGamer/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/KylomaskGamer/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table> 
+if you call him joe m**a or do not like joe, watermelon blast
