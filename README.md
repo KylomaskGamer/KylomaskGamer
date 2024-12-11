@@ -1,28 +1,26 @@
-<h1>DOWNLOAD GEOMETRY DASH TWO POINT TWO O FIVE</h1>
+<h1>DOWNLOAD GEOMETRY DASH TWO POINT TWO O SEVENTEEN</h1>
 <h3>...oh sorry for yelling, i'm KylomaskGamer! (He/Him)</h3>
 
-A silly little game dev from a wild place called maple land.
+im a random game dev aand gamer on the internet
 
-I like making silly things in my silly little laptop, both in frontend and backend (but i do more frontend than backend).
+i make games in python scratch and js (sometimes)
 
-I also moderate multiple discord servers (but most of them have less than 50 people).
+and play games (minecraft.!)
 
-I also like being <b>inclusive</b> and <b>empathic</b>, and i am usually nice (except if you are mean to me).
+and play poo smp (yippee)
 
-Also did i mention that i do pixel art and 8 bit music??
+i love science (mainly physics)
 
-What i am working on:
-- Breadocalypse (Survive in a crusty apocalypse with the trusty Gun)
-- Moddy (On pause, a discord bot for automatically moderating servers)
-- Islander (On pause, a discord bot where you explore and fight crabs for now and craft all on discord)
-- Joe Simulator: The Abandonned City (Play as Joe and traverse a scawy city ooooo)
-- stupid low effort animations ([such as dancing bread videoo](https://www.youtube.com/shorts/Z8UIs45rX48))
+**i will be making HOVERBOARD SURF TWO... with actual 3d** this time and not some low effort attempt of a tridimensional perspective
 
-What i made:
-- A (deephearted) Minecraft Survival Series! Telling stories while building stuff, check it out [here!](https://youtube.com/playlist?list=PLkDon0yjD0A-HPrn7hUYEXQUejbQ4e57h)
-- Techy Bee Studios!
-- [NYOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMMMMMMMMMMMMMM](https://gamejolt.com/games/nyooom/828464)
-----------------------------------
+---
+
+here take this meme
+
+https://github.com/user-attachments/assets/c3728fa2-3939-481b-af5c-dba3b4869c50
+
+---
+
 ALSO meet joe, a character made by <a href="https://github.com/PuzzlingGGG">puzzlingGGG</a>
 
 ![Joe](https://github.com/KylomaskGamer/KylomaskGamer/assets/83834554/f7e5bca0-4544-4c94-b294-0ef5378371ce)
