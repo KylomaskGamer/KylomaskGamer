@@ -1,6 +1,8 @@
 <h1>DOWNLOAD GEOMETRY DASH TWO POINT TWO O SEVENTEEN</h1>
 <h3>...oh sorry for yelling, i'm KylomaskGamer! (He/Him)</h3>
 
+![](https://raw.githubusercontent.com/KylomaskGamer/KylomaskGamer/e60e7ed6f9e1903dc3af9a5509e0445577bb2b24/snake.svg)
+
 im a random game dev aand gamer on the internet
 
 i make games in python scratch and js (sometimes)
