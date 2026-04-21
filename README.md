@@ -1,36 +1,15 @@
-<h1>DOWNLOAD GEOMETRY DASH TWO POINT TWO O SEVENTEEN</h1>
-<h3>...oh sorry for yelling, i'm KylomaskGamer! (He/Him)</h3>
+# WHIRRRRRRRRRRRRRRRRRRRRRR
 
-![](https://raw.githubusercontent.com/KylomaskGamer/KylomaskGamer/e60e7ed6f9e1903dc3af9a5509e0445577bb2b24/snake.svg)
+im am an kylomaskgamer
 
-im a random game dev aand gamer on the internet
+im am an as artist and game dev
 
-i make games in python scratch and js (sometimes)
+i beat up a LOT of small game jams (penguinmod :trol:)
 
-and play games (minecraft.!)
+im SO good at game dev,,.,,..,,. (i got 2nd 2nd 3rd 3rd ?th in the game jams)
 
-and play poo smp (yippee)
+and my artist, lets jsutr say.,...,...,.,.,..,.,.., i drew my pfp
 
-i love science (mainly physics)
+## Games i play
 
-**i will be making HOVERBOARD SURF TWO... with actual 3d** this time and not some low effort attempt of a tridimensional perspective
-
----
-
-here take this meme
-
-https://github.com/user-attachments/assets/c3728fa2-3939-481b-af5c-dba3b4869c50
-
----
-
-ALSO meet joe, a character made by <a href="https://github.com/PuzzlingGGG">puzzlingGGG</a>
-
-![Joe](https://github.com/KylomaskGamer/KylomaskGamer/assets/83834554/f7e5bca0-4544-4c94-b294-0ef5378371ce)
-
-a good fella
-
-the best fella
-
-i really like joe
-
-if you call him joe m**a or do not like joe, watermelon blast
+ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, Geometry Dash, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, Lovely Composer, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, Rhythm Doctor, ADoFaI, ADoFaI, ADoFaI, Aseprite, ADoFaI, ADoFaI, Balatro, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, Super Mario Bros. Remastered, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, shapez 2, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, Python 3.14, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, Legends of Idleon, ADoFaI, ADoFaI, ADoFaI, Baba Is You, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, Sonic Racing Crossworlds, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI, ADoFaI and 140
