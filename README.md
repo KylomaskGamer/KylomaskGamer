@@ -6,7 +6,7 @@ im am an as artist and game dev
 
 i beat up a LOT of small game jams (penguinmod :trol:)
 
-im SO good at game dev,,.,,..,,. (i got 2nd 2nd 3rd 3rd ?th in the game jams)
+im SO good at game dev,,.,,..,,. (i got 2nd 2nd 3rd 3rd 3rd in the game jams)
 
 and my artist, lets jsutr say.,...,...,.,.,..,.,.., i drew my pfp
 
